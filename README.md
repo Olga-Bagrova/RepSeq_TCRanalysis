@@ -8,6 +8,21 @@
 
 ***Supervisors:** Vlasova Elizaveta & Shugay Mikhail*
 
+# Table of contents
+
+   * [Introduction](#introduction)
+   * [Project Structure](#project-structure)
+   * [How to install](#how-to-install)
+   * [Results](#results)
+      * [Deletion gene-candidates](#deletion-gene-candidates)
+      * [Haplotypes identification](#haplotypes-identification)
+      * [Co-expression patterns](#co-expression-patterns)
+      * [Thymic selection](#thymic-selection)
+   * [Conclusions](#conclusions)
+   * [Future plans](#future-plans)
+   * [Contacts](#contacts)
+   * [References](#references)
+
 
 ## Introduction
 
@@ -69,6 +84,23 @@ Additionally, the correlations of gene usage between the TRA and TRB chains did 
 Some genes showed a higher usage of nf sequences compared to of ones. While some of these genes were recognized as pseudogenes, others had no known non-functionality. It was suggested that negative thymic selection against such CDR3 might be [^4]. The same patterns were observed for the cohort-II. The Kolmogorov-Smirnov test was used to compare distributions.
 
 
+## Conclusions
+
+This study systematically analysed TCR repertoires in large cohorts from Russian and American populations.
+
+* **Gene usage histograms** revealed significant variations in V and J gene usage across TCRα and TCRβ chains, potentially influenced by ethnicity. 
+* **Hierarchical clustering** uncovered rare haplotypes (TRAJ21), indicating unique immune repertoire characteristics within subgroups of donors. 
+* **Investigation into functional versus non-functional** CDR3 sequences suggested certain V genes associated with higher frequency non-functional sequences may undergo negative thymic selection, implying a possible biological mechanism where certain gene configurations are selectively disadvantageous. 
+
+*Such T cell repertoire analysis is crucial for practical applications, as understanding the nuances of adaptive immunity can directly influence the selection of targets for receptor-based therapies.*
+
+
+## Future plans
+
+* To test the available hypotheses explaining the found patterns.
+* Integrate additional data to discover new hypotheses and confirm existing ones.
+
+
 ## Contacts:
 
 * **Bagrova Olga**: Olga-Bagrova [:octocat:](https://github.com/Olga-Bagrova)
@@ -77,7 +109,7 @@ Some genes showed a higher usage of nf sequences compared to of ones. While some
 * **Shugay Mikhail**: mikessh [:octocat:](https://github.com/mikessh) mikhail.shugay@gmail.com
 
 
-### Literature
+### References
 
 [^1]:	Murphy, K., & Weaver, C. (2016). Janeway’s Immunobiology. W.W. Norton & Company. doi 10.1201/9781315533247
 [^2]:	Vlasova, E. K., Nekrasova, A. I., Komkov, A. Y., Izraelson, M., Snigir, E. A., Mitrofanov, S. I., Yudin, V. S., Makarov, V. v., Keskinov, A. A., Korneeva, D., Pivnyuk, A., Shelyakin, P. v., Mamedov, I. Z., Rebrikov, D. v., Chudakov, D. M., Yudin, S. M., Skvortsova, V. I., Britanova, O. v., & Shugay, M. A. (2023). Robust detection of SARS-CoV-2 exposure in the population using T-cell repertoire profiling. BioRxiv, doi 10.1101/2023.11.08.566227
