@@ -1,0 +1,67 @@
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+beautifulsoup4==4.12.3
+biopython==1.81
+certifi==2024.2.2
+charset-normalizer==3.3.2
+comm @ file:///work/ci_py311/comm_1677709131612/work
+contourpy==1.2.0
+cycler==0.12.1
+debugpy @ file:///croot/debugpy_1690905042057/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fonttools==4.48.1
+idna==3.7
+igraph==0.10.6
+ipykernel @ file:///croot/ipykernel_1705933831282/work
+ipython @ file:///croot/ipython_1704833016303/work
+jedi @ file:///work/ci_py311_2/jedi_1679336495545/work
+joblib==1.3.2
+jupyter_client @ file:///croot/jupyter_client_1699455897726/work
+jupyter_core @ file:///croot/jupyter_core_1698937308754/work
+kiwisolver==1.4.5
+llvmlite==0.42.0
+lxml==5.2.1
+matplotlib==3.7.2
+matplotlib-inline @ file:///work/ci_py311/matplotlib-inline_1676823841154/work
+mizani==0.9.3
+nest-asyncio @ file:///work/ci_py311/nest-asyncio_1676823382924/work
+numba==0.59.0
+numpy==1.25.1
+olga==1.2.4
+packaging @ file:///croot/packaging_1693575174725/work
+pandas==2.0.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+patsy==0.5.6
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pillow==10.2.0
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+plotnine==0.12.3
+prompt-toolkit @ file:///croot/prompt-toolkit_1704404351921/work
+psutil @ file:///work/ci_py311_2/psutil_1679337388738/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+Pygments @ file:///croot/pygments_1684279966437/work
+pynndescent==0.5.11
+pyparsing==3.0.9
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-igraph==0.10.6
+pytz==2024.1
+pyzmq @ file:///croot/pyzmq_1705605076900/work
+requests==2.31.0
+scikit-learn==1.3.0
+scipy==1.11.2
+seaborn==0.12.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.5
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+statsmodels==0.14.2
+textdistance==4.5.0
+texttable==1.7.0
+threadpoolctl==3.2.0
+tornado @ file:///croot/tornado_1696936946304/work
+tqdm==4.66.2
+traitlets @ file:///work/ci_py311/traitlets_1676823305040/work
+tzdata==2024.1
+umap-learn==0.5.3
+urllib3==2.2.1
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
